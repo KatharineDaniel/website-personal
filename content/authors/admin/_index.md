@@ -3,7 +3,7 @@
 title: Connair Russell
 
 # Full name (for SEO)
-first_name: Connair
+first_name: Connair J. S.
 last_name: Russell
 
 # Is this the primary user of the site?
