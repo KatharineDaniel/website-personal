@@ -27,14 +27,12 @@ bio:
 education:
   courses:
     - course: PhD in Psychology
-      institution: Max Planck Institute for Human Development, Freie Universität Berlin
+      institution: Max Planck Institute for Human Development, & Freie Universität Berlin
       year: 2022
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Social and Cultural Psychology
+      institution: London School of Economics
+    - course: BSc(Hons) in Psychology
+      institution: University of East Anglia
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,16 +44,20 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/ConnairRussell
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=EyDCgE8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cjsrussell
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/connairrussell/
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mastodon.online/@connairrussell
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
