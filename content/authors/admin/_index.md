@@ -26,9 +26,8 @@ bio:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Psychology X
-      institution: Max Planck Institute for Human Development
-      institution: Freie Universität Berlin
+    - course: PhD in Psychology
+      institution: Max Planck Institute for Human Development, Freie Universität Berlin
       year: 2022
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
