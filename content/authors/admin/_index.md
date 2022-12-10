@@ -31,7 +31,7 @@ education:
       year: 2022
     - course: MSc in Social and Cultural Psychology
       institution: London School of Economics
-    - course: BSc(Hons) in Psychology
+    - course: BSc (Hons) in Psychology
       institution: University of East Anglia
 
 # Social/Academic Networking
