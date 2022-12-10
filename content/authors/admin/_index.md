@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Connair J. S. Russell
+title: Connair Russell
 
 # Full name (for SEO)
 first_name: Connair J. S.
