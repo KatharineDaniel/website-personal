@@ -27,8 +27,8 @@ bio:
 education:
   courses:
     - course: PhD in Psychology
-      institution: Max Planck Institute for Human Development
-                   Freie Universität Berlin
+      institution: Max Planck Institute for Human Development  
+      Freie Universität Berlin
       year: 2022
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
