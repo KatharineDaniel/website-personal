@@ -21,7 +21,12 @@ organizations:
 bio:
 
 # Interests to show in About widget
-interests: Cognitive Science of Religion, Atheism and Non-belief, Causality, Open Science, Philosophy of Science
+interests:
+- Cognitive Science of Religion
+- Atheism and Non-belief
+- Causality
+- Open Science
+- Philosophy of Science
 
 # Education to show in About widget
 education:
