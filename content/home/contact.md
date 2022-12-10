@@ -17,14 +17,12 @@ content:
 
 # Contact details (edit or remove options as required)
   email: c.russell@qub.ac.uk
-  email: connairrussell@live.com
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM me here
       link: https://twitter.com/ConnairRussell
-    - icon: mastodon
-      icon_pack: fab
+
 design:
   columns: '2'
 ---
