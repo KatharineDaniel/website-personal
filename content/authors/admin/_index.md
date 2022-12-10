@@ -1,37 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Connair Russell
 
 # Full name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Connair
+last_name: Russell
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Queen's University Belfast
+    url: https://www.qub.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# add if want - interests:
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Psychology
+      institution: Max Planck Institute for Human Development
+                   Freie Universität Berlin
+      year: 2022
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
