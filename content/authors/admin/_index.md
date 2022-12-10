@@ -83,6 +83,6 @@ I am currently a postdoc working as a Research Fellow at Queen's University Belf
 
 I am interested in the Cognitive Science of Religion, or more specifically, the Cognitive Science of *non*-Religion. The Explaining Atheism project is investigating the major psychological and social factors influencing non-belief (e.g. Cognitive Biases, Religious Socialisation). We are examining this across cultures, and in particular, look to use modern causal inference techniques to look at the causal pathways to non-belief.
 
-Prior to joining the EA team, i completed my PhD in 2022. Based at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin, My PhD looked at cognitive biases how we learn and generalise different kinds of information.
+Prior to joining the EA team, i completed my PhD in 2022. Based at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin, my PhD looked at cognitive biases how we learn and generalise different kinds of information.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
