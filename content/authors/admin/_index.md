@@ -85,4 +85,4 @@ I am interested in the Cognitive Science of Religion, or more specifically, the 
 
 Prior to joining the EA team i completed my PhD in 2022. Based at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin, my PhD looked at cognitive biases in how we learn and generalise different kinds of information.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
